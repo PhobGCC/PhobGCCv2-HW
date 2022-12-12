@@ -8291,7 +8291,7 @@
 
   (footprint "Library:phobtv_bold_big" (layer "B.Cu")
     (tedit 0) (tstamp af229e8e-24e9-4dbf-ae84-78748e9a96de)
-    (at 157.734 57.2516 180)
+    (at 150.0632 36.2712 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Gphobtvbigback" (at 0 0) (layer "B.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
