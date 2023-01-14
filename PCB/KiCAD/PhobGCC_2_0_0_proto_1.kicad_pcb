@@ -2118,7 +2118,7 @@
 
   (footprint "Library:phobtv_bold_big" (layer "F.Cu")
     (tedit 0) (tstamp 183d65fc-5785-4e6c-ab72-a2f417ea6350)
-    (at 54.6608 44.9072)
+    (at 54.5 44.9)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Gphobtvbigback" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -5998,7 +5998,7 @@
     (property "Sheetname" "")
     (path "/70a4d119-c40f-48ea-9c05-fef51eac79a2")
     (attr smd)
-    (fp_text reference "C8" (at 0.113 -1.437 90) (layer "F.SilkS")
+    (fp_text reference "C8" (at 3 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 25e7e041-50d5-4541-a0fa-c02a35a980d6)
     )
@@ -8122,7 +8122,7 @@
   (gr_text "GP13" (at 124.714 47.498) (layer "B.SilkS") (tstamp f7d441cf-b406-42fb-b763-8f7dccfc7d47)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
-  (gr_text "BLUE WIRE ON THE LEFT" (at 100.1776 23.8252) (layer "B.SilkS") (tstamp fdd22279-5c33-4174-b459-8048b1a9e30b)
+  (gr_text "BLUE WIRE ON LEFT FOR OEM CABLES" (at 103.2 23.8) (layer "B.SilkS") (tstamp fdd22279-5c33-4174-b459-8048b1a9e30b)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
   (gr_text "GPIO Breakout" (at 124.46 46.482 -270) (layer "F.SilkS") (tstamp 008e8fd3-5232-400b-9ea1-c51266aac496)
