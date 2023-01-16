@@ -4789,7 +4789,7 @@
     (uuid 00000000-0000-0000-0000-00006154dc25)
     (property "Reference" "SW1" (id 0) (at 276.86 28.321 0))
     (property "Value" "A" (id 1) (at 276.86 30.6324 0))
-    (property "Footprint" "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch" (id 2) (at 276.86 30.48 0)
+    (property "Footprint" "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch_Circley" (id 2) (at 276.86 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 276.86 30.48 0)
@@ -4804,7 +4804,7 @@
     (uuid 00000000-0000-0000-0000-00006154f083)
     (property "Reference" "SW2" (id 0) (at 276.86 39.751 0))
     (property "Value" "B" (id 1) (at 276.86 42.0624 0))
-    (property "Footprint" "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch" (id 2) (at 276.86 41.91 0)
+    (property "Footprint" "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch_Circley" (id 2) (at 276.86 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 276.86 41.91 0)
@@ -4819,7 +4819,7 @@
     (uuid 00000000-0000-0000-0000-00006154f5a6)
     (property "Reference" "SW3" (id 0) (at 276.86 49.911 0))
     (property "Value" "X" (id 1) (at 276.86 52.2224 0))
-    (property "Footprint" "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch" (id 2) (at 276.86 52.07 0)
+    (property "Footprint" "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch_Circley" (id 2) (at 276.86 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 276.86 52.07 0)
@@ -4834,7 +4834,7 @@
     (uuid 00000000-0000-0000-0000-00006154f995)
     (property "Reference" "SW4" (id 0) (at 276.86 60.071 0))
     (property "Value" "Y" (id 1) (at 276.86 62.3824 0))
-    (property "Footprint" "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch" (id 2) (at 276.86 62.23 0)
+    (property "Footprint" "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch_Circley" (id 2) (at 276.86 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 276.86 62.23 0)
@@ -4989,7 +4989,7 @@
     (uuid 00000000-0000-0000-0000-00006157aadd)
     (property "Reference" "SW9" (id 0) (at 290.83 124.841 0))
     (property "Value" "Dleft" (id 1) (at 290.83 127.1524 0))
-    (property "Footprint" "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2" (id 2) (at 290.83 127 0)
+    (property "Footprint" "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2_ZigZag" (id 2) (at 290.83 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 290.83 127 0)
@@ -5020,7 +5020,7 @@
     (uuid 00000000-0000-0000-0000-00006157b24d)
     (property "Reference" "SW10" (id 0) (at 290.83 136.271 0))
     (property "Value" "Dup" (id 1) (at 290.83 138.5824 0))
-    (property "Footprint" "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2" (id 2) (at 290.83 138.43 0)
+    (property "Footprint" "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2_ZigZag" (id 2) (at 290.83 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 290.83 138.43 0)
@@ -5035,7 +5035,7 @@
     (uuid 00000000-0000-0000-0000-00006157b84b)
     (property "Reference" "SW11" (id 0) (at 290.83 147.701 0))
     (property "Value" "Dright" (id 1) (at 290.83 150.0124 0))
-    (property "Footprint" "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2" (id 2) (at 290.83 149.86 0)
+    (property "Footprint" "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2_ZigZag" (id 2) (at 290.83 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 290.83 149.86 0)
@@ -5050,7 +5050,7 @@
     (uuid 00000000-0000-0000-0000-00006157bdeb)
     (property "Reference" "SW12" (id 0) (at 290.83 159.131 0))
     (property "Value" "Ddown" (id 1) (at 290.83 161.4424 0))
-    (property "Footprint" "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2" (id 2) (at 290.83 161.29 0)
+    (property "Footprint" "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2_ZigZag" (id 2) (at 290.83 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 290.83 161.29 0)
@@ -7458,7 +7458,7 @@
   (symbol (lib_id "power:VCC") (at 359.41 96.52 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid dfce8f87-f5ea-4030-8329-64335daf7d25)
-    (property "Reference" "#PWR?" (id 0) (at 359.41 100.33 0)
+    (property "Reference" "#PWR0109" (id 0) (at 359.41 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 359.41 92.9155 0))
@@ -7820,6 +7820,9 @@
     (path "/f9cdb0b9-7ec9-459b-832d-b9ee2cd19c0f"
       (reference "#PWR0108") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/dfce8f87-f5ea-4030-8329-64335daf7d25"
+      (reference "#PWR0109") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/33987719-b3fe-4748-bfb2-54a7cb63fff5"
       (reference "#PWR0110") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -7879,9 +7882,6 @@
     )
     (path "/b2f5add3-bcbf-47c0-bda2-614fef9cc32f"
       (reference "#PWR0133") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/dfce8f87-f5ea-4030-8329-64335daf7d25"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000616548ab"
       (reference "C3") (unit 1) (value "0.047u") (footprint "PhobGCC_2_0_0_footprints:C_0603_HandSoldering")
@@ -8127,16 +8127,16 @@
       (reference "S1") (unit 1) (value "BOOTSEL") (footprint "PhobGCC_2_0_0_footprints:SW_TS-1187A-B-A-B")
     )
     (path "/00000000-0000-0000-0000-00006154dc25"
-      (reference "SW1") (unit 1) (value "A") (footprint "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch")
+      (reference "SW1") (unit 1) (value "A") (footprint "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch_Circley")
     )
     (path "/00000000-0000-0000-0000-00006154f083"
-      (reference "SW2") (unit 1) (value "B") (footprint "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch")
+      (reference "SW2") (unit 1) (value "B") (footprint "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch_Circley")
     )
     (path "/00000000-0000-0000-0000-00006154f5a6"
-      (reference "SW3") (unit 1) (value "X") (footprint "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch")
+      (reference "SW3") (unit 1) (value "X") (footprint "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch_Circley")
     )
     (path "/00000000-0000-0000-0000-00006154f995"
-      (reference "SW4") (unit 1) (value "Y") (footprint "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch")
+      (reference "SW4") (unit 1) (value "Y") (footprint "PhobGCC_2_0_0_footprints:ABXY_Contact_Omron_Switch_Circley")
     )
     (path "/00000000-0000-0000-0000-00006154fd5a"
       (reference "SW5") (unit 1) (value "Start") (footprint "PhobGCC_2_0_0_footprints:Start_Contact")
@@ -8151,16 +8151,16 @@
       (reference "SW8") (unit 1) (value "Z") (footprint "PhobGCC_2_0_0_footprints:Z_Switch_Edge_Omron")
     )
     (path "/00000000-0000-0000-0000-00006157aadd"
-      (reference "SW9") (unit 1) (value "Dleft") (footprint "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2")
+      (reference "SW9") (unit 1) (value "Dleft") (footprint "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2_ZigZag")
     )
     (path "/00000000-0000-0000-0000-00006157b24d"
-      (reference "SW10") (unit 1) (value "Dup") (footprint "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2")
+      (reference "SW10") (unit 1) (value "Dup") (footprint "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2_ZigZag")
     )
     (path "/00000000-0000-0000-0000-00006157b84b"
-      (reference "SW11") (unit 1) (value "Dright") (footprint "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2")
+      (reference "SW11") (unit 1) (value "Dright") (footprint "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2_ZigZag")
     )
     (path "/00000000-0000-0000-0000-00006157bdeb"
-      (reference "SW12") (unit 1) (value "Ddown") (footprint "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2")
+      (reference "SW12") (unit 1) (value "Ddown") (footprint "PhobGCC_2_0_0_footprints:Dpad_Contact_TL3315NF_2_ZigZag")
     )
     (path "/c013f98b-0ce2-41e6-a548-47670f0b49cf"
       (reference "U1") (unit 1) (value "MCP3002") (footprint "PhobGCC_2_0_0_footprints:SOIC-8_3.9x4.9mm_P1.27mm")
