@@ -4,13 +4,13 @@
   (property "Sheetfile" "PhobGCC_2_0_0_proto_1.kicad_sch")
   (property "Sheetname" "")
   (attr through_hole)
-  (fp_text reference "REF**" (at -5.8 -1.05) (layer "F.SilkS") hide
+  (fp_text reference "SW5" (at -5.8 -1.05) (layer "F.SilkS") hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
-    (tstamp ffdeb6bd-186b-4e85-aff3-c8234e8fb83d)
+    (tstamp 6b8d624b-d461-4598-bd9a-fcff82b30b47)
   )
   (fp_text value "Start" (at -0.017 -4.697 180) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.15)))
-    (tstamp 5be5b22d-8d9a-40d5-92f8-a90de008ea39)
+    (tstamp 853d4683-05ad-4cb9-8ff8-a841375eb270)
   )
   (fp_poly (pts
       (xy 2.756 3.031167)
@@ -46,7 +46,7 @@
       (xy -2.7685 -2.980166)
       (xy 2.756 -2.980166)
       (xy 2.756 3.031167)
-    ) (layer "F.Mask") (width 0.01) (fill solid) (tstamp 83981baf-e638-4208-919d-bd14311df259))
+    ) (layer "F.Mask") (width 0.01) (fill solid) (tstamp f1e838bf-7860-4706-9f6d-ad61aebf88f7))
   (pad "1" smd custom (at 0.6 -3.1) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
     (options (clearance outline) (anchor circle))
     (primitives
@@ -78,8 +78,8 @@
           (xy -0.159852 -0.389682)
           (xy -0.031169 -0.40517)
         ) (width 0.01) (fill yes))
-    ) (tstamp 1515b145-1fea-4ba3-bf69-14556c3df617))
-  (pad "2" thru_hole circle (at -0.6 3.1) (size 1 1) (drill 0.6) (layers *.Cu *.Mask) (tstamp 32b33b8d-5bbe-4958-8129-b3f3bcb4e5e2))
+    ) (tstamp ecb2afa6-462e-4b8d-8126-36e8a383eb61))
+  (pad "2" thru_hole circle (at -0.6 3.1) (size 1 1) (drill 0.6) (layers *.Cu *.Mask) (tstamp 7a80006a-e489-4d85-bbac-02301650b295))
   (pad "2" smd custom (at -0.6 3.1) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
     (options (clearance outline) (anchor circle))
     (primitives
@@ -123,5 +123,19 @@
           (xy 2.133625 -5.059472)
           (xy 2.424667 -5.065361)
         ) (width 0.01) (fill yes))
-    ) (tstamp c165907c-0e09-4f38-b4aa-5869f1db3913))
+    ) (tstamp cc1ee45b-1e75-474c-bf4f-afa65cb8a6b5))
+  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp a6920945-4836-4c8d-a6d0-2711776e7ca4) (hatch edge 0.508)
+    (connect_pads (clearance 0))
+    (min_thickness 0.254)
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy -3.2 -3.8)
+        (xy 3.2 -3.8)
+        (xy 3.2 3.8)
+        (xy -3.2 3.8)
+      )
+    )
+  )
 )
